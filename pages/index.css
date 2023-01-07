@@ -42,21 +42,3 @@
 @import url('../blocks/footer/__copyright/footer__coyright.css');
 @import url('../blocks/footer/__footer__links/footer__links.css');
 @import url('../blocks/footer/__footer__links/__link/footer__link.css');
-
-@media screen and (max-width: 1279px) and (min-width: 1024px) {
-    .{
-        
-    }
-}
-
-@media screen and (max-width: 1023px) and (min-width: 768px) {
-    . {
-        
-    }
-}
-
-@media screen and (max-width: 767px) and (min-width: 320px){
-    . {
-        
-    } 
-}
