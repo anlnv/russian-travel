@@ -5,9 +5,11 @@
     font-size: 72px;
     line-height: 76px;
     text-align: center;
-    margin: 245px auto 0px;
+    margin-top: 245px;
+    margin-bottom: 0;
+    align-items: center;
     max-width: 560px;
-    position: absolute;
+    position: relative;
     
   }
 
@@ -15,12 +17,14 @@
   @media screen and (min-width: 1024px) and (max-width: 1279px){
     .cover__title {
       margin-top: 195px;
+      margin-bottom: 0;
     }
   }
   
   @media screen and (min-width: 768px) and (max-width: 1023px) {
     .cover__title {
       margin-top: 115px;
+      margin-bottom: 0px;
     }
   }
   
